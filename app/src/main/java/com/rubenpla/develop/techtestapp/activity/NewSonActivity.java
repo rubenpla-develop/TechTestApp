@@ -1,4 +1,4 @@
-package com.rubenpla.develop.techtestapp;
+package com.rubenpla.develop.techtestapp.activity;
 
 import android.support.v7.app.AppCompatActivity;
 
