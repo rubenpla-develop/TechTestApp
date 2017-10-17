@@ -1,0 +1,41 @@
+{
+	"family": [
+			{
+			  "name":"Juan",
+			  "lastName":"Lopez",
+			  "age": 35,
+			  "familyRole": "Padre"
+			},
+			{
+			  "name":"Laura",
+			  "lastName":"Lopez",
+			  "age": 32,
+			  "familyRole": "Madre"
+			},
+			{
+			  "name":"Juan",
+			  "lastName":"Lopez",
+			  "age": 5,
+			  "familyRole": "Hijo"
+			},
+			{
+			  "name":"Laura",
+			  "lastName":"Lopez",
+			  "age": 4,
+			  "familyRole": "Hija"
+			},
+			{
+			  "name":"Juan jr.",
+			  "lastName":"Lopez",
+			  "age": 3,
+			  "familyRole": "Hijo"
+			},
+			{
+			  "name":"Tin",
+			  "lastName":"Lopez",
+			  "age": 2,
+			  "familyRole": "Mascota"
+			}
+	]
+}
+	
