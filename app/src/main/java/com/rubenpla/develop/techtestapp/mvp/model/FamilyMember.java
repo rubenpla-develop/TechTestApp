@@ -2,11 +2,17 @@
 package com.rubenpla.develop.techtestapp.mvp.model;
 
 
+import com.google.gson.annotations.SerializedName;
+
 public class FamilyMember {
 
+    @SerializedName("name")
     private String name;
+    @SerializedName("lastName")
     private String lastName;
+    @SerializedName("age")
     private int age;
+    @SerializedName("familyRole")
     private String familyRole;
 
     public String getName() {
